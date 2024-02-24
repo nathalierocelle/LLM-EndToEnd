@@ -1,2 +1,3 @@
 # LLM-EndToEnd
-Contains practice/exercises/tutorials used while upskilling LLMs
+
+Course 1 - Langchain: Build ChatGPT for your data (AI Makerspace)
